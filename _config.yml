@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jade Rinn"
 title_separator          : "-"
 name                     : &name "Jade Rinn"
-description              : &description "PhD candidate in environmental economics at PSAE"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD candidate in environmental economics at Paris-Saclay Applied Economics (PSAE)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jaderinn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jade Rinn"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate working on land use allocation for the energy transition"
+  bio              : "PhD candidate studying land-use allocation for the energy transition"
   location         : "Paris, France"
   employer         : "ADEME, CLand"
   uri              : # URL
