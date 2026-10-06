@@ -1,11 +1,11 @@
 ---
 title: "Microeconomics 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Masters (2nd year engineering program)"
 permalink: /teaching/microeconomics-1
 venue: "ENSAE"
-date: 2025-09-01
-location: "Paris, France"
+date: 2026-09
+location: "Palaiseau, France"
 ---
 
-I am currently teaching Microeconomics 1 at ENSAE.
+TA for Microeconomics 1 at ENSAE (33 hours). 
