@@ -7,16 +7,31 @@ author_profile: true
 
 {% include base_path %}
 
-## Research interests
+## Work in progress
+### Dedicated bioenergy on "marginal land" and the carbon opportunity cost
 
-My research sits at the intersection of environmental economics, land-use allocation, and the energy transition. I focus on the economic and policy mechanisms that shape how land is used in response to decarbonisation, and on how to design robust strategies for sustainable transitions.
+*With Thierry Brunelle and Guy Meunier*
 
-### Current themes
+*Preliminary draft.*
 
-- Land-use allocation and the energy transition
-- Environmental policy and spatial economic analysis
-- Sustainable infrastructure and resource planning
+<details>
+<summary><strong>Show abstract</strong></summary>
 
-### Overview
+<p>
+Dedicated bioenergy is often presented as a low-carbon option when cultivated
+on so-called marginal land. However, land with limited agricultural
+productivity may still have substantial value through carbon sequestration,
+biodiversity, or other ecosystem services.
+</p>
 
-I am interested in how land-use decisions affect climate mitigation, ecological outcomes, and regional development. My work aims to connect economic thinking with policy design to better understand the trade-offs involved in transforming energy systems and landscapes.
+<p>
+We develop a land-allocation model in which heterogeneous plots can be used
+for food production, second-generation bioenergy crops, or natural
+regeneration. We examine how the carbon opportunity cost of land affects the
+socially optimal allocation and the definition of marginal land. We then
+study the design of bioenergy subsidies and land-eligibility criteria when
+agricultural emissions and natural carbon sinks cannot be directly priced,
+with a numerical application to the French context.
+</p>
+
+</details>
