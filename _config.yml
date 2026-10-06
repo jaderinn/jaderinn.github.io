@@ -23,7 +23,7 @@ repository               : "jaderinn/jaderinn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jade Rinn"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate studying land-use allocation for the energy transition"
