@@ -1,25 +1,11 @@
 ---
-layout: archive
-title: "About"
-permalink: /about/
+permalink: /
+title: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+I am a second-year PhD candidate in environmental economics at Paris-Saclay Applied Economics (PSAE), a research unit of INRAE and AgroParisTech within Université Paris-Saclay. I am co-supervised by ...
 
-{% include base_path %}
-
-{% capture intro %}
-I am a PhD candidate studying land-use allocation for the energy transition. My research examines how land-use decisions interact with environmental policy, energy systems, and the broader sustainability transition.
-{% endcapture %}
-
-{{ intro | markdownify }}
-
-## Research interests
-
-- Land-use allocation
-- Environmental economics
-- Energy transition and sustainability
-- Policy design for resilient systems
-
-## Background
-
-My work focuses on the economic and spatial dimensions of transition pathways, with attention to how competing land uses shape both ecological outcomes and policy feasibility.
+My research interests include environmental and agricultural economics, land-use allocation, and the design of climate and bioenergy policies. I use theoretical economic models and numerical simulations to study how land-use decisions can support the energy transition and environmental goals.
