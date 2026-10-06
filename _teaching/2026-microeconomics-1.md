@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics 1"
+title: "Microeconomics 1 (TA)"
 collection: teaching
 type: "Masters (2nd year engineering program)"
 permalink: /teaching/microeconomics-1
