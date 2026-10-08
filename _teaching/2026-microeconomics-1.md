@@ -1,7 +1,7 @@
 ---
 title: "Microeconomics 1 (TA)"
 collection: teaching
-type: "Masters (2nd year engineering program)"
+type: "Masters (2nd-year engineering program)"
 venue: "ENSAE"
 date: 2026-09-15
 location: "Palaiseau, France"
