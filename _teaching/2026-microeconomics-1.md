@@ -11,3 +11,5 @@ professor: "Pr Philippe Choné"
 TA for Microeconomics 1 at ENSAE (33 hours).
 
 Correction of the tutorial on self-selection is available [here]({{ site.baseurl }}/files/Detailed_correction_selfselection_tutorial.pdf).
+
+Correction of the tutorial on moral hazard is available [here]({{ site.baseurl }}/files/Detailed_correction_moralhazard_tutorial.pdf).
